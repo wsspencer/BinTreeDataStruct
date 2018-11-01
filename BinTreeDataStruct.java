@@ -6,7 +6,7 @@ import java.util.*;
 
 //Program to build a representation of a binary tree data structure and answer queries based on 
 //that tree given its preorder and postorder traversal
-public class proj2 {
+public class BinTreeDataStruct {
 	//Nested class representation of a single tree node (or leaf/root)
 	public static class Node {
 		//Node properties
